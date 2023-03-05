@@ -1,7 +1,5 @@
 <template>
-  <div>
-    xx
-  </div>
+
     <canvas
       @mousemove="mousemove"
       @mouseout="mouseout"

@@ -10,6 +10,12 @@ export {}
 declare module '@vue/runtime-core' {
   export interface GlobalComponents {
     AButton: typeof import('ant-design-vue/es')['Button']
+    ACheckbox: typeof import('ant-design-vue/es')['Checkbox']
+    AForm: typeof import('ant-design-vue/es')['Form']
+    AFormItem: typeof import('ant-design-vue/es')['FormItem']
+    AInput: typeof import('ant-design-vue/es')['Input']
+    AInputPassword: typeof import('ant-design-vue/es')['InputPassword']
+    ASpace: typeof import('ant-design-vue/es')['Space']
     Canvas: typeof import('./src/components/Canvas.vue')['default']
     CanvasBackground: typeof import('./src/components/CanvasBackground.vue')['default']
     HelloWorld: typeof import('./src/components/HelloWorld.vue')['default']

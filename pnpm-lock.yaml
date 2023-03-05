@@ -2,6 +2,7 @@ lockfileVersion: 5.4
 
 specifiers:
   '@ant-design/icons': ^5.0.1
+  '@ant-design/icons-vue': ^6.1.0
   '@antfu/eslint-config': ^0.36.0
   '@commitlint/cli': ^17.4.4
   '@commitlint/config-conventional': ^17.4.4
@@ -23,6 +24,7 @@ specifiers:
 
 dependencies:
   '@ant-design/icons': 5.0.1
+  '@ant-design/icons-vue': 6.1.0_vue@3.2.47
   '@antfu/eslint-config': 0.36.0_ycpbpc6yetojsgtrx3mwntkhsu
   '@commitlint/cli': 17.4.4
   '@commitlint/config-conventional': 17.4.4

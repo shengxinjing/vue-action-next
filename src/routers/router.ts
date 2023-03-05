@@ -23,7 +23,7 @@ export const staticRouter: RouteRecordRaw[] = [
 	{
 		path: '/login',
 		name: "login",
-		component: () => import("@/pages/login.vue"),
+		component: () => import("@/pages/Login.vue"),
 		meta: {
 			title: "登录"
 		}
